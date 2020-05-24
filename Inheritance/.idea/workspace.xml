@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42c12a67-f00d-4cac-87a2-4151c1983616" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YgBaJKpRc6feSK4KonsWJ3Fnzu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.kedyson.Main" />
+      <module name="Inheritance" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42c12a67-f00d-4cac-87a2-4151c1983616" name="Default Changelist" comment="" />
+      <created>1583354418368</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583354418368</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="631" y="181" width="374" height="652" key="#com.intellij.ide.util.MemberChooser" timestamp="1583395478276">
+      <screen x="47" y="27" width="1553" height="873" />
+    </state>
+    <state x="631" y="181" width="374" height="652" key="#com.intellij.ide.util.MemberChooser/47.27.1553.873@47.27.1553.873" timestamp="1583395478276" />
+    <state width="494" height="721" key="GridCell.Tab.0.bottom" timestamp="1583396060523">
+      <screen x="47" y="27" width="1553" height="873" />
+    </state>
+    <state width="494" height="721" key="GridCell.Tab.0.bottom/47.27.1553.873@47.27.1553.873" timestamp="1583396060523" />
+    <state width="494" height="721" key="GridCell.Tab.0.center" timestamp="1583396060522">
+      <screen x="47" y="27" width="1553" height="873" />
+    </state>
+    <state width="494" height="721" key="GridCell.Tab.0.center/47.27.1553.873@47.27.1553.873" timestamp="1583396060522" />
+    <state width="494" height="721" key="GridCell.Tab.0.left" timestamp="1583396060521">
+      <screen x="47" y="27" width="1553" height="873" />
+    </state>
+    <state width="494" height="721" key="GridCell.Tab.0.left/47.27.1553.873@47.27.1553.873" timestamp="1583396060521" />
+    <state width="494" height="721" key="GridCell.Tab.0.right" timestamp="1583396060522">
+      <screen x="47" y="27" width="1553" height="873" />
+    </state>
+    <state width="494" height="721" key="GridCell.Tab.0.right/47.27.1553.873@47.27.1553.873" timestamp="1583396060522" />
+    <state x="132" y="64" width="1372" height="796" key="new project wizard" timestamp="1583396058998">
+      <screen x="47" y="27" width="1553" height="873" />
+    </state>
+    <state x="132" y="64" width="1372" height="796" key="new project wizard/47.27.1553.873@47.27.1553.873" timestamp="1583396058998" />
+  </component>
+</project>
