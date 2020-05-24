@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="60bb3ca7-e06b-474d-8888-92bd7c6240b9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1YaSWu63ml2JUPfBfuR74jo3L5O" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.kedyson.Main" />
+      <module name="CharAndBoolean" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60bb3ca7-e06b-474d-8888-92bd7c6240b9" name="Default Changelist" comment="" />
+      <created>1583179246701</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583179246701</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="494" height="722" key="GridCell.Tab.0.bottom" timestamp="1583222034647">
+      <screen x="47" y="27" width="1553" height="873" />
+    </state>
+    <state width="494" height="722" key="GridCell.Tab.0.bottom/47.27.1553.873@47.27.1553.873" timestamp="1583222034647" />
+    <state width="494" height="722" key="GridCell.Tab.0.center" timestamp="1583222034647">
+      <screen x="47" y="27" width="1553" height="873" />
+    </state>
+    <state width="494" height="722" key="GridCell.Tab.0.center/47.27.1553.873@47.27.1553.873" timestamp="1583222034647" />
+    <state width="494" height="722" key="GridCell.Tab.0.left" timestamp="1583222034647">
+      <screen x="47" y="27" width="1553" height="873" />
+    </state>
+    <state width="494" height="722" key="GridCell.Tab.0.left/47.27.1553.873@47.27.1553.873" timestamp="1583222034647" />
+    <state width="494" height="722" key="GridCell.Tab.0.right" timestamp="1583222034647">
+      <screen x="47" y="27" width="1553" height="873" />
+    </state>
+    <state width="494" height="722" key="GridCell.Tab.0.right/47.27.1553.873@47.27.1553.873" timestamp="1583222034647" />
+    <state x="132" y="64" width="1372" height="796" key="new project wizard" timestamp="1583222032980">
+      <screen x="47" y="27" width="1553" height="873" />
+    </state>
+    <state x="132" y="64" width="1372" height="796" key="new project wizard/47.27.1553.873@47.27.1553.873" timestamp="1583222032980" />
+  </component>
+</project>
