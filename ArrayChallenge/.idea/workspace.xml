@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a7a74689-98b9-4c30-b42d-aa6f5e2c8b30" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ZGhDpSwzwiAsKZSKcnr5EOxzXJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Polymorphism Challenge" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.kedyson.Main" />
+      <module name="ArrayChallenge" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7a74689-98b9-4c30-b42d-aa6f5e2c8b30" name="Default Changelist" comment="" />
+      <created>1584471220840</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584471220840</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="606" y="221" width="424" height="491" key="FileChooserDialogImpl" timestamp="1584818013455">
+      <screen x="47" y="27" width="1553" height="873" />
+    </state>
+    <state x="606" y="221" width="424" height="491" key="FileChooserDialogImpl/47.27.1553.873@47.27.1553.873" timestamp="1584818013455" />
+    <state width="494" height="713" key="GridCell.Tab.0.bottom" timestamp="1584483098628">
+      <screen x="47" y="27" width="1553" height="873" />
+    </state>
+    <state width="494" height="713" key="GridCell.Tab.0.bottom/47.27.1553.873@47.27.1553.873" timestamp="1584483098628" />
+    <state width="494" height="713" key="GridCell.Tab.0.center" timestamp="1584483098627">
+      <screen x="47" y="27" width="1553" height="873" />
+    </state>
+    <state width="494" height="713" key="GridCell.Tab.0.center/47.27.1553.873@47.27.1553.873" timestamp="1584483098627" />
+    <state width="494" height="713" key="GridCell.Tab.0.left" timestamp="1584483098627">
+      <screen x="47" y="27" width="1553" height="873" />
+    </state>
+    <state width="494" height="713" key="GridCell.Tab.0.left/47.27.1553.873@47.27.1553.873" timestamp="1584483098627" />
+    <state width="494" height="713" key="GridCell.Tab.0.right" timestamp="1584483098628">
+      <screen x="47" y="27" width="1553" height="873" />
+    </state>
+    <state width="494" height="713" key="GridCell.Tab.0.right/47.27.1553.873@47.27.1553.873" timestamp="1584483098628" />
+    <state x="132" y="65" width="1372" height="803" key="new project wizard" timestamp="1584483096219">
+      <screen x="47" y="27" width="1553" height="873" />
+    </state>
+    <state x="132" y="65" width="1372" height="803" key="new project wizard/47.27.1553.873@47.27.1553.873" timestamp="1584483096219" />
+  </component>
+</project>
